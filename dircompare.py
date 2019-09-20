@@ -1,3 +1,5 @@
+#!/bin/python3
+
 import difflib
 import re
 import sys
